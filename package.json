@@ -13,6 +13,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
+    "dayjs": "^1.8.20",
     "puppeteer": "^2.1.1"
   }
 }
